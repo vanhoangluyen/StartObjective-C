@@ -33,8 +33,6 @@ int main(int argc, const char * argv[]) {
         NSLog(@"my String: %@", myString);
         */
         //Mark: - Convert
-        int number = 123;
-        
     }
     return 0;
 }
