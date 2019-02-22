@@ -121,9 +121,9 @@
     return sum;
 }
 @end
-int main() {
-    SimpleValue * simpleClass = [[SimpleValue alloc] init];
-    int getSum = [simpleClass sum:3 andNum:4];
-    NSLog(@"Sum: %d", getSum);
-//    [simpleClass daclareSimple];
-}
+//int main() {
+//    SimpleValue * simpleClass = [[SimpleValue alloc] init];
+//    int getSum = [simpleClass sum:3 andNum:4];
+//    NSLog(@"Sum: %d", getSum);
+////    [simpleClass daclareSimple];
+//}
